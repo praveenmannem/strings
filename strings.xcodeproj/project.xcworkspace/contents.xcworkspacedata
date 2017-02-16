@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:stringPractice.xcodeproj">
+      location = "self:/Users/praveen/Desktop/IOS Classes/stringPractice/strings.xcodeproj">
    </FileRef>
 </Workspace>

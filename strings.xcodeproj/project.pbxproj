@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		AC23D44E1E5539A300471E33 /* stringPractice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = stringPractice; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC23D44E1E5539A300471E33 /* strings */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = strings; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC23D4511E5539A300471E33 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		AC23D4451E5539A200471E33 = {
 			isa = PBXGroup;
 			children = (
-				AC23D4501E5539A300471E33 /* stringPractice */,
+				AC23D4501E5539A300471E33 /* strings */,
 				AC23D44F1E5539A300471E33 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,26 @@
 		AC23D44F1E5539A300471E33 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AC23D44E1E5539A300471E33 /* stringPractice */,
+				AC23D44E1E5539A300471E33 /* strings */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		AC23D4501E5539A300471E33 /* stringPractice */ = {
+		AC23D4501E5539A300471E33 /* strings */ = {
 			isa = PBXGroup;
 			children = (
 				AC23D4511E5539A300471E33 /* main.m */,
 			);
+			name = strings;
 			path = stringPractice;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		AC23D44D1E5539A300471E33 /* stringPractice */ = {
+		AC23D44D1E5539A300471E33 /* strings */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AC23D4551E5539A300471E33 /* Build configuration list for PBXNativeTarget "stringPractice" */;
+			buildConfigurationList = AC23D4551E5539A300471E33 /* Build configuration list for PBXNativeTarget "strings" */;
 			buildPhases = (
 				AC23D44A1E5539A300471E33 /* Sources */,
 				AC23D44B1E5539A300471E33 /* Frameworks */,
@@ -77,9 +78,9 @@
 			);
 			dependencies = (
 			);
-			name = stringPractice;
+			name = strings;
 			productName = stringPractice;
-			productReference = AC23D44E1E5539A300471E33 /* stringPractice */;
+			productReference = AC23D44E1E5539A300471E33 /* strings */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = AC23D4491E5539A200471E33 /* Build configuration list for PBXProject "stringPractice" */;
+			buildConfigurationList = AC23D4491E5539A200471E33 /* Build configuration list for PBXProject "strings" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -109,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AC23D44D1E5539A300471E33 /* stringPractice */,
+				AC23D44D1E5539A300471E33 /* strings */,
 			);
 		};
 /* End PBXProject section */
@@ -230,7 +231,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AC23D4491E5539A200471E33 /* Build configuration list for PBXProject "stringPractice" */ = {
+		AC23D4491E5539A200471E33 /* Build configuration list for PBXProject "strings" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AC23D4531E5539A300471E33 /* Debug */,
@@ -239,7 +240,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AC23D4551E5539A300471E33 /* Build configuration list for PBXNativeTarget "stringPractice" */ = {
+		AC23D4551E5539A300471E33 /* Build configuration list for PBXNativeTarget "strings" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AC23D4561E5539A300471E33 /* Debug */,
